@@ -278,17 +278,4 @@ public class GameManager : MonoBehaviour
         buttons[2].GetComponentInChildren<TMP_Text>().text = GameData.options[1][2];
         buttons[3].GetComponentInChildren<TMP_Text>().text = GameData.options[1][3];
 */
-    }
-
-
-    public void EndGame(int index)
-    {
-        Debug.Log($"Game Over: {index}");
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
