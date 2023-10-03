@@ -12,6 +12,7 @@ public class GameManager : MonoBehaviour
     public Button[] buttons;
     private int location;
     public bool hasStick;
+    public bool hasTalked;
 
     // Start is called before the first frame update
     void Start()
@@ -156,6 +157,7 @@ public class GameManager : MonoBehaviour
             else if (location == 19)
             {
                 GoToLocation(6);
+                hasTalked = true;
             }
             else
             {
@@ -263,9 +265,16 @@ public class GameManager : MonoBehaviour
         {
             if (location == 2)
             {
-                GoToLocation(2);
+                GoToLocation(4);
             }
             else if (location == 6)
+            {
+
+            }
+            else if (location == 9){
+
+            }
+            else
             {
 
             }

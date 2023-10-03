@@ -54,7 +54,7 @@ public class GameData
         new string[]{"Pick Up", "Ignore", "Break"}, // Investigates Stick | Room 3 - > 4, 5, 17
         new string[]{"Continue Forward"}, // Breaks Stick | Room 4 - > 5
         new string[]{"Start Encounter"}, // Pre-Encounter | Room 5 - > 6
-        new string[]{"Fight", "Act", "Items", "Mercy"}, // Encounter | Room 6 - > 7, 8, 9, 10
+        new string[]{"Fight", "Act", "Items", "Mercy"}, // Encounter | Room 6 - > 7, 8, 9, 10, 11
         new string[]{"Reset", "Quit Game"}, // Fought With Stick (Ending) | Room 7
         new string[]{"Reset", "Quit Game"}, // Fought Without Stick (Ending) | Room 8
         new string[]{"Check", "Talk", "Joke", "Threaten"}, // Act Menu | Room 9 - > 18, 19, 15, 20
