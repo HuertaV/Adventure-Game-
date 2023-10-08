@@ -47,6 +47,8 @@ public class GameManager : MonoBehaviour
     public void optionSelected(int optionSelected)
     {
         
+
+
         if(optionSelected == 0)
         {
             if(location == 0)
