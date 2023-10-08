@@ -108,7 +108,14 @@ public class GameManager : MonoBehaviour
             }
             else if (location == 11)
             {
-                GoToLocation(12);
+                if (hasTalked)
+                {
+                    GoToLocation(14);
+                }
+                else
+                {
+                    GoToLocation(13);
+                }
             }
             else if (location == 12)
             {
@@ -185,7 +192,7 @@ public class GameManager : MonoBehaviour
             }
             else if (location == 6)
             {
-                GoToLocation(8);
+                GoToLocation(9);
             }
             else if (location == 7)
             {
@@ -208,15 +215,16 @@ public class GameManager : MonoBehaviour
             }
             else if (location == 11)
             {
-                GoToLocation(1);
+                GoToLocation(12);
             }
             else if (location == 12)
             {
-                GoToLocation(13);
+                Application.Quit();
+                Debug.Log("Quit");
             }
             else if (location == 13)
             {
-                GoToLocation(7);
+                GoToLocation(9);
             }
             else if (location == 14)
             {
@@ -269,14 +277,14 @@ public class GameManager : MonoBehaviour
             }
             else if (location == 6)
             {
-
+                GoToLocation(11);
             }
             else if (location == 9){
-
+                GoToLocation(20);
             }
             else
             {
-
+                GoToLocation(11);
             }
         }
         }
