@@ -11,7 +11,7 @@ public class GameData
         "Nothing happens... Except for a loud crunching sound ahead.\vWill you sit here and give up, or will you go to investigate?", 
         "You trudge forward. If anyone is going to get you out of this place it's you!\vAs you walk along the path, you notice a very large stick on the floor.\vIt is the perfect size to use as something to defend yourself if you so chose to.\vWhat do you do?", 
         "You look closer at the stick, there isn't much to note about it.\vIt probably fell off of the tree besides it.\vAnyone would be jealous of how swordlike this stick is.", 
-        "Room 4", 
+        "You grab the stick from the ground, and tear it apart with your hands with a satisying *scrunch*\vAlthough perhaps you could have used this, you feel like some stress has been relieved.", 
         "Room 5", 
         "Room 6", 
         "Room 7", 
