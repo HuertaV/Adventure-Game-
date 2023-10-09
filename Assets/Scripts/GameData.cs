@@ -7,8 +7,8 @@ public class GameData
 {
     public static string[] descriptions =
     {
-        "Room 0", 
-        "Room 1", 
+        "You emerge from a large purple door into a very snowy and cold forest.\vIt is extremely silent with only the sound of your feet scrunching on the snow.\vWhat do you do?", 
+        "Nothing happens... Except for a loud crunching sound ahead.\vWill you sit here and give up, or will you go to investigate?", 
         "Room 2", 
         "Room 3", 
         "Room 4", 
@@ -23,7 +23,7 @@ public class GameData
         "Room 13",
         "Room 14",
         "Room 15",
-        "Room 16",
+        "You let yourself fall upon the floor, this is too much for you.\vYou know whtat they say, if you ever get lost in the wild, then stay in one place and wait for someone to rescue you\v Someone will come right?",
         "Room 17",
         "Room 18",
         "Room 19",
