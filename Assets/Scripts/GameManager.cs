@@ -186,7 +186,7 @@ public class GameManager : MonoBehaviour
             }
             else if (location == 2)
             {
-                GoToLocation(4);
+                GoToLocation(5);
             }
             else if (location == 3)
             {

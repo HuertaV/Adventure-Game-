@@ -22,12 +22,12 @@ public class GameData
         "You turn around.. And bolt out of there. \"I'm out of here\" you mutter under your breath.\vYou can't help but feel like you missed out on something in the back of your head.\vIt doesn't matter anymore, you just want to get through whatever the future holds.",
         "You think about telling the skeleton you don't want to fight, but not having said anything to it, you flake out.\vWhat will you do now?",
         "You tell the skeleton you don't want to fight it.\v\"Huh? Fight? I was never trying to fight you, I'm too lazy for that.\" The skeleton says.\vYou feel your body relax.\v\"Hey kiddo, My name is Sans. Sans the skeleton. What's your story?\"\vYou have a good feeling from this outcome.",
-        "Room 15",
+        "You tell the skeleton a bone pun that you made up on the spot.\vThe skeleton gives a good chuckle.\v\"\"That was a good one kiddo.\" \v\"My name is Sans. Sans the skeleton. What's your story?\"\vYou feel at ease, the skeleton doesn't seem to be a threat to you. You feel good about this outcome.",
         "You let yourself fall upon the floor, this is too much for you.\vYou know whtat they say, if you ever get lost in the wild, then stay in one place and wait for someone to rescue you\v Someone will come right?",
         "You pick up the stick and grasp it firmly in your hand.\vIt feels good in your hands.",
-        "Room 18",
-        "Room 19",
-        "Room 20"
+        "You take a closer look at the skeleton. It is wearing slippers that you for some reason can't tell if are pink or white, you decide not to think about it further.\vIt is looking at you seemingly intruiged and confused by your presence.\vThe way he holds himself and how it\'s clothes look make you think it is very laid-back and lazy. The jacket is frilly and has ketchup stains on it.",
+        "With a lack of creativeness (ahem, writer\'s block), you converse with the skeleton about the weather.\vIt seems pleased, with the ice broken, perhaps you could calm the tension in the air somehow?",
+        "You threaten to poke the skeleton where it's eyes should be.\vA couple of seconds pass and all you get is a slight frown from the skeleton.\vYou feel like your threat was pathetic."
     };
 
 /*    public static string[,] options =
