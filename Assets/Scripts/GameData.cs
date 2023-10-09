@@ -10,7 +10,7 @@ public class GameData
         "You emerge from a large purple door into a very snowy and cold forest.\vIt is extremely silent with only the sound of your feet scrunching on the snow.\vThere is one path cut alongside all of the trees\vWhat do you do?", 
         "Nothing happens... Except for a loud crunching sound ahead.\vWill you sit here and give up, or will you go to investigate?", 
         "You trudge forward. If anyone is going to get you out of this place it's you!\vAs you walk along the path, you notice a very large stick on the floor.\vIt is the perfect size to use as something to defend yourself if you so chose to.\vWhat do you do?", 
-        "Room 3", 
+        "You look closer at the stick, there isn't much to note about it.\vIt probably fell off of the tree besides it.\vAnyone would be jealous of how swordlike this stick is.", 
         "Room 4", 
         "Room 5", 
         "Room 6", 
