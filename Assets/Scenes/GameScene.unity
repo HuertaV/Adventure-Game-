@@ -1383,7 +1383,7 @@ MonoBehaviour:
   m_fontSizeMax: 18
   m_fontStyle: 0
   m_HorizontalAlignment: 2
-  m_VerticalAlignment: 256
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
@@ -1411,7 +1411,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -5.062895, y: -34.650707, z: -5.062895, w: -2.089964}
+  m_margin: {x: -5.062895, y: -27.6, z: -5.062895, w: -2.089964}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
