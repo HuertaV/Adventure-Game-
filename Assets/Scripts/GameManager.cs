@@ -65,7 +65,7 @@ public class GameManager : MonoBehaviour
             }
             else if (location == 3)
             {
-                GoToLocation(4);
+                GoToLocation(17);
             }
             else if (location == 4)
             {

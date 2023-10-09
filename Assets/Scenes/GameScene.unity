@@ -344,7 +344,7 @@ GameObject:
   - component: {fileID: 257603386}
   - component: {fileID: 257603385}
   m_Layer: 5
-  m_Name: Image (1)
+  m_Name: Bottom-Style
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -419,7 +419,7 @@ GameObject:
   - component: {fileID: 441095495}
   - component: {fileID: 441095494}
   m_Layer: 5
-  m_Name: Image
+  m_Name: Top-Style
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -690,7 +690,7 @@ GameObject:
   - component: {fileID: 905247597}
   - component: {fileID: 905247596}
   m_Layer: 5
-  m_Name: Image
+  m_Name: Top-Style
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -951,7 +951,7 @@ GameObject:
   - component: {fileID: 1135588908}
   - component: {fileID: 1135588907}
   m_Layer: 5
-  m_Name: Image
+  m_Name: Top-Style
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1026,7 +1026,7 @@ GameObject:
   - component: {fileID: 1315498088}
   - component: {fileID: 1315498087}
   m_Layer: 5
-  m_Name: Image (1)
+  m_Name: Bottom-Style
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1379,7 +1379,7 @@ MonoBehaviour:
   m_fontSizeBase: 12
   m_fontWeight: 400
   m_enableAutoSizing: 1
-  m_fontSizeMin: 8
+  m_fontSizeMin: 7
   m_fontSizeMax: 18
   m_fontStyle: 0
   m_HorizontalAlignment: 2
@@ -1571,7 +1571,7 @@ GameObject:
   - component: {fileID: 1583233932}
   - component: {fileID: 1583233931}
   m_Layer: 5
-  m_Name: Image
+  m_Name: Top-Style
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1781,7 +1781,7 @@ GameObject:
   - component: {fileID: 1680167187}
   - component: {fileID: 1680167186}
   m_Layer: 5
-  m_Name: Image (1)
+  m_Name: Bottom-Style
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1856,7 +1856,7 @@ GameObject:
   - component: {fileID: 1690890312}
   - component: {fileID: 1690890311}
   m_Layer: 5
-  m_Name: Image (1)
+  m_Name: Bottom-Style
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
